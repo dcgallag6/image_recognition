@@ -2,7 +2,7 @@
 Convolutional Neural Networks for image recognition
 
 ## Neural Style Transfer
-family members drawn with van gogh styles
+family members drawn with van gogh styles <br>
 ![](images/family_stylized_gogh_room.png)
 
 # Canadian Institute For Advanced Research
